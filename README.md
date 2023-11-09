@@ -10,7 +10,7 @@
 Using the published database of Adventure Works in 2016-2019, I designed an interactive, insightful dashboard using Power BI and DAX which indicates statistical metrics, such as total profit, total margin, budget variance, and the ratio of annual sales growth to the last year for the selected year, and insightful findings such as how the total sales of a subcategory change in a 30-day interval, how purchase intentions of individuals change by living country, occupation category, and gender type, and so forth.
 
 # About Dataset:
-You can download the database from this [link](https://github.com/amirho3einsedaghati/Adventure-Works-Dashboard/blob/main/dataset/Adventure-Works-2020.xlsx).
+You can download the database from this [link](https://github.com/amirho3einsedaghati/Adventure-Works-Dashboard/blob/main/dataset/Adventure%20Works%202020.xlsx).
 
 # About Reports
 The dashboard has three reports, one main tab, and two tooltip tabs.
